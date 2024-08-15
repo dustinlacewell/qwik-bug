@@ -10,8 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.13.4",
     "@astrojs/check": "^0.9.2",
+    "@builder.io/qwik": "1.7.3",
+    "@builder.io/qwik-react": "~0.5.5",
+    "@qwikdev/astro": "^0.6.3",
+    "@astrojs/tailwind": "^5.1.0",
+    "tailwindcss": "~3.4.7",
+    "astro": "^4.13.4",
     "typescript": "^5.5.4"
   }
 }
